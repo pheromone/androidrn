@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/shaotingzhou/Desktop/React Native/androidrn/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/shaotingzhou/Desktop/React Native/androidrn/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shaotingzhou/Desktop/androidrn/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/shaotingzhou/Desktop/androidrn/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
